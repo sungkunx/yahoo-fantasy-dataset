@@ -1,0 +1,21 @@
+# Yahoo Fantasy Dataset Requirements
+
+# Core dependencies
+yahoo-oauth==2.0.1
+yahoo-fantasy-api==2.7.0
+python-dotenv==1.0.0
+pandas==2.1.4
+pytz==2023.3
+
+# Database
+sqlite3  # Built into Python
+
+# Optional for enhanced analysis
+numpy==1.24.3
+matplotlib==3.7.1
+plotly==5.17.0
+
+# Development (optional)
+pytest==7.4.3
+black==23.11.0
+flake8==6.1.0
