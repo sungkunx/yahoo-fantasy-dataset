@@ -1,0 +1,5 @@
+yahoo-oauth
+yahoo-fantasy-api
+python-dotenv
+pandas<1.4.0
+requests

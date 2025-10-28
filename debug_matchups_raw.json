@@ -1,0 +1,3525 @@
+{
+  "fantasy_content": {
+    "xml:lang": "en-US",
+    "yahoo:uri": "/fantasy/v2/league/nba.l.48698/scoreboard;week=1",
+    "league": [
+      {
+        "league_key": "466.l.48698",
+        "league_id": "48698",
+        "name": "NB League 2024",
+        "url": "https://basketball.fantasysports.yahoo.com/nba/48698",
+        "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-basketball-player-emoji-png_1721253814729.png",
+        "draft_status": "postdraft",
+        "num_teams": 16,
+        "edit_key": "2025-10-28",
+        "weekly_deadline": "",
+        "roster_type": "date",
+        "league_update_timestamp": "1761552101",
+        "scoring_type": "head",
+        "league_type": "private",
+        "renew": "454_79625",
+        "renewed": "",
+        "felo_tier": "gold",
+        "is_highscore": false,
+        "matchup_week": 1,
+        "iris_group_chat_id": "",
+        "allow_add_to_dl_extra_pos": 1,
+        "is_pro_league": "0",
+        "is_cash_league": "0",
+        "current_week": 2,
+        "start_week": "1",
+        "start_date": "2025-10-21",
+        "end_week": "23",
+        "end_date": "2026-04-05",
+        "current_date": "2025-10-27",
+        "is_plus_league": "0",
+        "game_code": "nba",
+        "season": "2025"
+      },
+      {
+        "scoreboard": {
+          "week": "1",
+          "0": {
+            "matchups": {
+              "0": {
+                "matchup": {
+                  "week": "1",
+                  "week_start": "2025-10-21",
+                  "week_end": "2025-10-26",
+                  "status": "postevent",
+                  "is_playoffs": "0",
+                  "is_consolation": "0",
+                  "is_matchup_of_the_week": "0",
+                  "is_tied": 0,
+                  "winner_team_key": "466.l.48698.t.1",
+                  "stat_winners": [
+                    {
+                      "stat_winner": {
+                        "stat_id": "5",
+                        "winner_team_key": "466.l.48698.t.1"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "8",
+                        "winner_team_key": "466.l.48698.t.15"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "10",
+                        "winner_team_key": "466.l.48698.t.1"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "12",
+                        "winner_team_key": "466.l.48698.t.1"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "15",
+                        "winner_team_key": "466.l.48698.t.1"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "16",
+                        "winner_team_key": "466.l.48698.t.1"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "17",
+                        "winner_team_key": "466.l.48698.t.1"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "18",
+                        "winner_team_key": "466.l.48698.t.1"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "19",
+                        "winner_team_key": "466.l.48698.t.15"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "27",
+                        "winner_team_key": "466.l.48698.t.1"
+                      }
+                    }
+                  ],
+                  "0": {
+                    "teams": {
+                      "0": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.1"
+                            },
+                            {
+                              "team_id": "1"
+                            },
+                            {
+                              "name": "Baesen"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/1"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/3ea278e37d32db9cd223022b1b1070757c43b6a420930bf0232426acbc1e154e.jpg"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 8
+                            },
+                            {
+                              "division_id": "1"
+                            },
+                            {
+                              "waiver_priority": 16
+                            },
+                            [],
+                            {
+                              "number_of_moves": 5
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "1"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 2
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "1",
+                                    "nickname": "bae",
+                                    "guid": "XDUC3BKOJXEX6PLEHHIUGCU74Y",
+                                    "is_commissioner": "1",
+                                    "email": "baerse@yahoo.com",
+                                    "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                    "felo_score": "800",
+                                    "felo_tier": "platinum"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "195/391"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".499"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "108/141"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".766"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "63"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "561"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "211"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "118"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "30"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "32"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "53"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "11"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "8"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 28
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "1": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.15"
+                            },
+                            {
+                              "team_id": "15"
+                            },
+                            {
+                              "name": "TERIE-DD-1"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/15"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/27b24b3c3b79aa6a1818bb6cfc9e6fba3d4596114d75be5d9fd1b13d384e2636.jpg"
+                                  }
+                                }
+                              ]
+                            },
+                            [],
+                            {
+                              "division_id": "1"
+                            },
+                            {
+                              "waiver_priority": 9
+                            },
+                            [],
+                            {
+                              "number_of_moves": 0
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "0"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 1
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "15",
+                                    "nickname": "Justin",
+                                    "guid": "4QLMFOWFMZQVTN5BTNYXP7SL5X",
+                                    "email": "kd.derivatives@gmail.com",
+                                    "image_url": "https://s.yimg.com/ag/images/ffad7d78-1923-4b19-997f-b7d30188ec2e_64sq.jpg",
+                                    "felo_score": "846",
+                                    "felo_tier": "platinum"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "163/336"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".485"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "82/99"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".828"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "55"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "463"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "149"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "62"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "24"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "18"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "44"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "3"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "2"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 27
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "count": 2
+                    }
+                  }
+                }
+              },
+              "1": {
+                "matchup": {
+                  "week": "1",
+                  "week_start": "2025-10-21",
+                  "week_end": "2025-10-26",
+                  "status": "postevent",
+                  "is_playoffs": "0",
+                  "is_consolation": "0",
+                  "is_matchup_of_the_week": "1",
+                  "is_tied": 0,
+                  "winner_team_key": "466.l.48698.t.6",
+                  "stat_winners": [
+                    {
+                      "stat_winner": {
+                        "stat_id": "5",
+                        "winner_team_key": "466.l.48698.t.2"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "8",
+                        "winner_team_key": "466.l.48698.t.6"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "10",
+                        "winner_team_key": "466.l.48698.t.6"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "12",
+                        "winner_team_key": "466.l.48698.t.6"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "15",
+                        "winner_team_key": "466.l.48698.t.6"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "16",
+                        "winner_team_key": "466.l.48698.t.6"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "17",
+                        "winner_team_key": "466.l.48698.t.6"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "18",
+                        "winner_team_key": "466.l.48698.t.6"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "19",
+                        "winner_team_key": "466.l.48698.t.2"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "27",
+                        "winner_team_key": "466.l.48698.t.6"
+                      }
+                    }
+                  ],
+                  "0": {
+                    "teams": {
+                      "0": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.2"
+                            },
+                            {
+                              "team_id": "2"
+                            },
+                            {
+                              "name": "TheMan"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/2"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-poses-circle-cropped-21-120-x-png_1728335441329.png"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 9
+                            },
+                            {
+                              "division_id": "2"
+                            },
+                            {
+                              "waiver_priority": 4
+                            },
+                            [],
+                            {
+                              "number_of_moves": 5
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "1"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 11
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "2",
+                                    "nickname": "상열",
+                                    "guid": "A7VTTCLCBACBWTWPMGOCTZUGUU",
+                                    "email": "sang10.jeon@gmail.com",
+                                    "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                    "felo_score": "639",
+                                    "felo_tier": "silver"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "111/221"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".502"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "63/84"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".750"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "29"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "314"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "95"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "59"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "20"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "4"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "45"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "2"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "2"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 22
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "1": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.6"
+                            },
+                            {
+                              "team_id": "6"
+                            },
+                            {
+                              "name": "Team Jaewon"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/6"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/6143d3f5ee6368cc74efc68b804b379466e880b9b7715d17b404936d5da6f2ea.jpg"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 10
+                            },
+                            {
+                              "division_id": "2"
+                            },
+                            {
+                              "waiver_priority": 3
+                            },
+                            [],
+                            {
+                              "number_of_moves": 5
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "1"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 12
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "6",
+                                    "nickname": "Jae Won",
+                                    "guid": "EWZOP5SYUVLPQE2B2HNDS2OROU",
+                                    "email": "jae1jl@hotmail.com",
+                                    "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                    "felo_score": "631",
+                                    "felo_tier": "silver"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "141/326"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".433"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "69/87"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".793"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "63"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "414"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "156"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "88"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "36"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "11"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "46"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "3"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "8"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 29
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "count": 2
+                    }
+                  }
+                }
+              },
+              "2": {
+                "matchup": {
+                  "week": "1",
+                  "week_start": "2025-10-21",
+                  "week_end": "2025-10-26",
+                  "status": "postevent",
+                  "is_playoffs": "0",
+                  "is_consolation": "0",
+                  "is_matchup_of_the_week": "0",
+                  "is_tied": 0,
+                  "winner_team_key": "466.l.48698.t.3",
+                  "stat_winners": [
+                    {
+                      "stat_winner": {
+                        "stat_id": "5",
+                        "winner_team_key": "466.l.48698.t.3"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "8",
+                        "winner_team_key": "466.l.48698.t.9"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "10",
+                        "winner_team_key": "466.l.48698.t.3"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "12",
+                        "winner_team_key": "466.l.48698.t.3"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "15",
+                        "winner_team_key": "466.l.48698.t.3"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "16",
+                        "winner_team_key": "466.l.48698.t.3"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "17",
+                        "winner_team_key": "466.l.48698.t.3"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "18",
+                        "winner_team_key": "466.l.48698.t.9"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "19",
+                        "winner_team_key": "466.l.48698.t.9"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "27",
+                        "winner_team_key": "466.l.48698.t.3"
+                      }
+                    }
+                  ],
+                  "0": {
+                    "teams": {
+                      "0": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.3"
+                            },
+                            {
+                              "team_id": "3"
+                            },
+                            {
+                              "name": "Team Scott"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/3"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/7374ef82eac91c27745e8084d188905df64ec868b5b370a0563918f4916293e9.jpg"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 3
+                            },
+                            {
+                              "division_id": "1"
+                            },
+                            {
+                              "waiver_priority": 15
+                            },
+                            [],
+                            {
+                              "number_of_moves": 3
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "0"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 3
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "3",
+                                    "nickname": "Hyungsik",
+                                    "guid": "M24LI7EFWOOOPKYSNNHTCMTUO4",
+                                    "email": "minisiki@gmail.com",
+                                    "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                    "felo_score": "694",
+                                    "felo_tier": "silver"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "170/340"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".500"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "93/127"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".732"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "40"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "473"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "198"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "146"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "29"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "11"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "69"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "5"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "7"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 28
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "1": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.9"
+                            },
+                            {
+                              "team_id": "9"
+                            },
+                            {
+                              "name": "Hanseong's Team"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/9"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://s.yimg.com/cv/apiv2/default/nba/nba_5_h.png"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 6
+                            },
+                            {
+                              "division_id": "1"
+                            },
+                            {
+                              "waiver_priority": 7
+                            },
+                            [],
+                            {
+                              "number_of_moves": 4
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "0"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 8
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "9",
+                                    "nickname": "Hanseong",
+                                    "guid": "ZYVWBP3ZW6DW7FNRXN6A5M6MRM",
+                                    "email": "hanseongjung@yahoo.com",
+                                    "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                    "felo_score": "695",
+                                    "felo_tier": "silver"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "112/244"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".459"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "58/76"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".763"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "31"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "313"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "144"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "68"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "13"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "13"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "48"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "3"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "3"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 25
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "count": 2
+                    }
+                  }
+                }
+              },
+              "3": {
+                "matchup": {
+                  "week": "1",
+                  "week_start": "2025-10-21",
+                  "week_end": "2025-10-26",
+                  "status": "postevent",
+                  "is_playoffs": "0",
+                  "is_consolation": "0",
+                  "is_matchup_of_the_week": "0",
+                  "is_tied": 0,
+                  "winner_team_key": "466.l.48698.t.5",
+                  "stat_winners": [
+                    {
+                      "stat_winner": {
+                        "stat_id": "5",
+                        "winner_team_key": "466.l.48698.t.5"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "8",
+                        "winner_team_key": "466.l.48698.t.4"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "10",
+                        "winner_team_key": "466.l.48698.t.5"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "12",
+                        "winner_team_key": "466.l.48698.t.5"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "15",
+                        "winner_team_key": "466.l.48698.t.5"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "16",
+                        "winner_team_key": "466.l.48698.t.5"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "17",
+                        "winner_team_key": "466.l.48698.t.5"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "18",
+                        "is_tied": 1
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "19",
+                        "winner_team_key": "466.l.48698.t.5"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "27",
+                        "winner_team_key": "466.l.48698.t.5"
+                      }
+                    }
+                  ],
+                  "0": {
+                    "teams": {
+                      "0": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.4"
+                            },
+                            {
+                              "team_id": "4"
+                            },
+                            {
+                              "name": "Cho"
+                            },
+                            {
+                              "is_owned_by_current_login": 1
+                            },
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/4"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/138588d478646717d7acc9fe9995be58369f08a05ff71ed70969e69bcc63d246.jpg"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 14
+                            },
+                            {
+                              "division_id": "2"
+                            },
+                            {
+                              "waiver_priority": 11
+                            },
+                            [],
+                            {
+                              "number_of_moves": 4
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "0"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 13
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "4",
+                                    "nickname": "chi",
+                                    "guid": "A6GMTPUNUMHA5YDP3XX24POXNA",
+                                    "is_current_login": "1",
+                                    "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                    "felo_score": "619",
+                                    "felo_tier": "silver"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "135/328"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".412"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "70/85"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".824"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "52"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "392"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "136"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "81"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "30"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "22"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "58"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "1"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "1"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 27
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "1": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.5"
+                            },
+                            {
+                              "team_id": "5"
+                            },
+                            {
+                              "name": "Hewon the game"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/5"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/87fb6aa529fa715ba03fc750e53aa3afe7d254df5e65fbbeae74fc5d772f737d.jpg"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 13
+                            },
+                            {
+                              "division_id": "2"
+                            },
+                            {
+                              "waiver_priority": 6
+                            },
+                            [],
+                            {
+                              "number_of_moves": 1
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "0"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 9
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "5",
+                                    "nickname": "He won",
+                                    "guid": "BQW2BZ7FHTES6OC3C7BVK77Z6Q",
+                                    "email": "jasonkay@naver.com",
+                                    "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                    "felo_score": "801",
+                                    "felo_tier": "platinum"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "177/370"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".478"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "108/132"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".818"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "57"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "519"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "163"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "95"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "43"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "22"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "45"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "5"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "8"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 27
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "count": 2
+                    }
+                  }
+                }
+              },
+              "4": {
+                "matchup": {
+                  "week": "1",
+                  "week_start": "2025-10-21",
+                  "week_end": "2025-10-26",
+                  "status": "postevent",
+                  "is_playoffs": "0",
+                  "is_consolation": "0",
+                  "is_matchup_of_the_week": "0",
+                  "is_tied": 0,
+                  "winner_team_key": "466.l.48698.t.13",
+                  "stat_winners": [
+                    {
+                      "stat_winner": {
+                        "stat_id": "5",
+                        "winner_team_key": "466.l.48698.t.13"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "8",
+                        "winner_team_key": "466.l.48698.t.7"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "10",
+                        "winner_team_key": "466.l.48698.t.7"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "12",
+                        "winner_team_key": "466.l.48698.t.13"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "15",
+                        "winner_team_key": "466.l.48698.t.13"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "16",
+                        "winner_team_key": "466.l.48698.t.13"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "17",
+                        "winner_team_key": "466.l.48698.t.13"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "18",
+                        "winner_team_key": "466.l.48698.t.13"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "19",
+                        "winner_team_key": "466.l.48698.t.13"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "27",
+                        "winner_team_key": "466.l.48698.t.13"
+                      }
+                    }
+                  ],
+                  "0": {
+                    "teams": {
+                      "0": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.7"
+                            },
+                            {
+                              "team_id": "7"
+                            },
+                            {
+                              "name": "TEAM G-JAY"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/7"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/70f622dc188544c1e66f568c89b14ad785babf7c303d490c2532a23e7fd5afb4.jpg"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 4
+                            },
+                            {
+                              "division_id": "1"
+                            },
+                            {
+                              "waiver_priority": 10
+                            },
+                            [],
+                            {
+                              "number_of_moves": 4
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "0"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 14
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "7",
+                                    "nickname": "JayZz",
+                                    "guid": "ZW3OM4SWZNWETK5SQMJURJSC2I",
+                                    "email": "seonsstory@gmail.com",
+                                    "image_url": "https://s.yimg.com/ag/images/ead877df-c65a-4be8-a3f7-3b9c8611feb0_64sq.jpg",
+                                    "felo_score": "648",
+                                    "felo_tier": "silver"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "114/234"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".487"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "69/90"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".767"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "31"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "328"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "125"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "66"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "16"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "14"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "62"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "3"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "2"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 29
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "1": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.13"
+                            },
+                            {
+                              "team_id": "13"
+                            },
+                            {
+                              "name": "hyun's  Team"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/13"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/341f0be69c85630400695d05b572399bf120d9065a92f8099788efbb0ae2df3e.jpg"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 5
+                            },
+                            {
+                              "division_id": "1"
+                            },
+                            {
+                              "waiver_priority": 8
+                            },
+                            [],
+                            {
+                              "number_of_moves": 4
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "0"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 7
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "13",
+                                    "nickname": "hyun",
+                                    "guid": "4KKDKPRIUTQE7IQWQC2RQEJPGM",
+                                    "email": "hyun.suh@yahoo.com",
+                                    "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                    "felo_score": "805",
+                                    "felo_tier": "platinum"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "163/289"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".564"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "92/132"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".697"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "23"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "441"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "196"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "97"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "21"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "17"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "51"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "6"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "8"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 28
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "count": 2
+                    }
+                  }
+                }
+              },
+              "5": {
+                "matchup": {
+                  "week": "1",
+                  "week_start": "2025-10-21",
+                  "week_end": "2025-10-26",
+                  "status": "postevent",
+                  "is_playoffs": "0",
+                  "is_consolation": "0",
+                  "is_matchup_of_the_week": "0",
+                  "is_tied": 0,
+                  "winner_team_key": "466.l.48698.t.11",
+                  "stat_winners": [
+                    {
+                      "stat_winner": {
+                        "stat_id": "5",
+                        "winner_team_key": "466.l.48698.t.11"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "8",
+                        "winner_team_key": "466.l.48698.t.11"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "10",
+                        "winner_team_key": "466.l.48698.t.8"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "12",
+                        "winner_team_key": "466.l.48698.t.11"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "15",
+                        "winner_team_key": "466.l.48698.t.11"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "16",
+                        "winner_team_key": "466.l.48698.t.8"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "17",
+                        "winner_team_key": "466.l.48698.t.11"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "18",
+                        "is_tied": 1
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "19",
+                        "winner_team_key": "466.l.48698.t.11"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "27",
+                        "winner_team_key": "466.l.48698.t.8"
+                      }
+                    }
+                  ],
+                  "0": {
+                    "teams": {
+                      "0": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.8"
+                            },
+                            {
+                              "team_id": "8"
+                            },
+                            {
+                              "name": "YoungHun`s Team Bravo"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/8"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/97e53049f2e31f731ceba898a84a865223749e5f6a4b990eb875562070c45a9a.jpg"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 12
+                            },
+                            {
+                              "division_id": "1"
+                            },
+                            {
+                              "waiver_priority": 12
+                            },
+                            [],
+                            {
+                              "number_of_moves": 1
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "0"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 6
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "8",
+                                    "nickname": "YoungHun",
+                                    "guid": "OEP3EKY6R44BVCT7ZYRIBX422M",
+                                    "email": "tubahong82@gmail.com",
+                                    "image_url": "https://s.yimg.com/ag/images/5eea022e-265c-460f-b713-58d59eaee89d_64sq.jpg",
+                                    "felo_score": "586",
+                                    "felo_tier": "bronze"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "135/292"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".462"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "66/89"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".742"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "35"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "371"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "119"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "115"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "29"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "10"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "55"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "7"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "3"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 28
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "1": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.11"
+                            },
+                            {
+                              "team_id": "11"
+                            },
+                            {
+                              "name": "Kharami"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/11"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://s.yimg.com/ep/cx/blendr/v2/image-shark-png_1721957384059.png"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 1
+                            },
+                            {
+                              "division_id": "1"
+                            },
+                            {
+                              "waiver_priority": 13
+                            },
+                            [],
+                            {
+                              "number_of_moves": 3
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "0"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 4
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "11",
+                                    "nickname": "Haoaram",
+                                    "guid": "QDUSNEBIUS7CQ6H5SNHA4U6XLQ",
+                                    "email": "kharam@gmail.com",
+                                    "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                    "felo_score": "827",
+                                    "felo_tier": "platinum"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "185/364"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".508"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "136/165"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".824"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "31"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "537"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "144"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "113"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "31"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "10"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "48"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "1"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "6"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 28
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "count": 2
+                    }
+                  }
+                }
+              },
+              "6": {
+                "matchup": {
+                  "week": "1",
+                  "week_start": "2025-10-21",
+                  "week_end": "2025-10-26",
+                  "status": "postevent",
+                  "is_playoffs": "0",
+                  "is_consolation": "0",
+                  "is_matchup_of_the_week": "0",
+                  "is_tied": 0,
+                  "winner_team_key": "466.l.48698.t.10",
+                  "stat_winners": [
+                    {
+                      "stat_winner": {
+                        "stat_id": "5",
+                        "winner_team_key": "466.l.48698.t.12"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "8",
+                        "winner_team_key": "466.l.48698.t.10"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "10",
+                        "winner_team_key": "466.l.48698.t.10"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "12",
+                        "winner_team_key": "466.l.48698.t.10"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "15",
+                        "winner_team_key": "466.l.48698.t.10"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "16",
+                        "winner_team_key": "466.l.48698.t.10"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "17",
+                        "winner_team_key": "466.l.48698.t.10"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "18",
+                        "winner_team_key": "466.l.48698.t.10"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "19",
+                        "winner_team_key": "466.l.48698.t.12"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "27",
+                        "winner_team_key": "466.l.48698.t.12"
+                      }
+                    }
+                  ],
+                  "0": {
+                    "teams": {
+                      "0": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.10"
+                            },
+                            {
+                              "team_id": "10"
+                            },
+                            {
+                              "name": "CHAN"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/10"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/37899847603_62ed77.gif"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 7
+                            },
+                            {
+                              "division_id": "2"
+                            },
+                            {
+                              "waiver_priority": 1
+                            },
+                            [],
+                            {
+                              "number_of_moves": 4
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "0"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 16
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "10",
+                                    "nickname": "-- hidden --",
+                                    "guid": "3NFUTYY6J57L54GVQJ7JXJVABQ",
+                                    "email": "chans99@daum.net",
+                                    "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                    "felo_score": "855",
+                                    "felo_tier": "platinum"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "158/327"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".483"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "64/79"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".810"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "35"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "415"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "155"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "57"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "25"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "16"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "61"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "2"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "7"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 27
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "1": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.12"
+                            },
+                            {
+                              "team_id": "12"
+                            },
+                            {
+                              "name": "SEOB's ME7O team"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/12"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/bff496a8dab98038ac7dce90b553068112fa60fbe1b4308a06c710e52f24ca94.png"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 2
+                            },
+                            {
+                              "division_id": "2"
+                            },
+                            {
+                              "waiver_priority": 14
+                            },
+                            [],
+                            {
+                              "number_of_moves": 2
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "0"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 5
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "12",
+                                    "nickname": "종섭",
+                                    "guid": "B7UGMYZGDSZTLEJMBOZPDENB6A",
+                                    "email": "jongseob.im@gmail.com",
+                                    "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                    "felo_score": "615",
+                                    "felo_tier": "silver"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "130/268"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".485"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "65/85"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".765"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "29"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "354"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "132"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "52"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "18"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "10"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "36"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "3"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "3"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 26
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "count": 2
+                    }
+                  }
+                }
+              },
+              "7": {
+                "matchup": {
+                  "week": "1",
+                  "week_start": "2025-10-21",
+                  "week_end": "2025-10-26",
+                  "status": "postevent",
+                  "is_playoffs": "0",
+                  "is_consolation": "0",
+                  "is_matchup_of_the_week": "0",
+                  "is_tied": 0,
+                  "winner_team_key": "466.l.48698.t.14",
+                  "stat_winners": [
+                    {
+                      "stat_winner": {
+                        "stat_id": "5",
+                        "winner_team_key": "466.l.48698.t.14"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "8",
+                        "winner_team_key": "466.l.48698.t.14"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "10",
+                        "winner_team_key": "466.l.48698.t.14"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "12",
+                        "winner_team_key": "466.l.48698.t.14"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "15",
+                        "winner_team_key": "466.l.48698.t.16"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "16",
+                        "winner_team_key": "466.l.48698.t.14"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "17",
+                        "winner_team_key": "466.l.48698.t.16"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "18",
+                        "winner_team_key": "466.l.48698.t.14"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "19",
+                        "winner_team_key": "466.l.48698.t.14"
+                      }
+                    },
+                    {
+                      "stat_winner": {
+                        "stat_id": "27",
+                        "winner_team_key": "466.l.48698.t.16"
+                      }
+                    }
+                  ],
+                  "0": {
+                    "teams": {
+                      "0": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.14"
+                            },
+                            {
+                              "team_id": "14"
+                            },
+                            {
+                              "name": "IN's WooSSa Team"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/14"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/0f667e2d9776027869f390a7f4fa4009406c494481841284f57d8d11baca3dd9.jpg"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "previous_season_team_rank": 11
+                            },
+                            {
+                              "division_id": "2"
+                            },
+                            {
+                              "waiver_priority": 5
+                            },
+                            [],
+                            {
+                              "number_of_moves": 0
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "0"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 10
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "14",
+                                    "nickname": "IN",
+                                    "guid": "K746EHNAXYZVM77KBRYUB4K35Y",
+                                    "email": "ywkafka@yahoo.com",
+                                    "image_url": "https://s.yimg.com/ag/images/9973e038-0e5e-4890-a159-ccafd0616b09kM_64sq.jpg",
+                                    "felo_score": "595",
+                                    "felo_tier": "bronze"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "183/368"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".497"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "123/137"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".898"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "66"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "555"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "122"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "109"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "26"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "21"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "62"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "2"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "7"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 28
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "1": {
+                        "team": [
+                          [
+                            {
+                              "team_key": "466.l.48698.t.16"
+                            },
+                            {
+                              "team_id": "16"
+                            },
+                            {
+                              "name": "ALTMAN_CH"
+                            },
+                            [],
+                            {
+                              "url": "https://basketball.fantasysports.yahoo.com/nba/48698/16"
+                            },
+                            {
+                              "team_logos": [
+                                {
+                                  "team_logo": {
+                                    "size": "large",
+                                    "url": "https://s.yimg.com/ba/images/904180c52b120856a360f16aa3612a966a69e5b68cb75d51c12d7dbcf0fea7f4.png"
+                                  }
+                                }
+                              ]
+                            },
+                            [],
+                            {
+                              "division_id": "2"
+                            },
+                            {
+                              "waiver_priority": 2
+                            },
+                            [],
+                            {
+                              "number_of_moves": 6
+                            },
+                            {
+                              "number_of_trades": 0
+                            },
+                            {
+                              "roster_adds": {
+                                "coverage_type": "week",
+                                "coverage_value": 2,
+                                "value": "2"
+                              }
+                            },
+                            [],
+                            {
+                              "league_scoring_type": "head"
+                            },
+                            [],
+                            {
+                              "draft_position": 15
+                            },
+                            {
+                              "has_draft_grade": 0
+                            },
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            {
+                              "managers": [
+                                {
+                                  "manager": {
+                                    "manager_id": "16",
+                                    "nickname": "CHANGHOON",
+                                    "guid": "KVVQXCYCFNTUG7RYPNIXSZQVUI",
+                                    "email": "glinroll@yahoo.com",
+                                    "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                    "felo_score": "594",
+                                    "felo_tier": "bronze"
+                                  }
+                                }
+                              ]
+                            }
+                          ],
+                          {
+                            "team_stats": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "stats": [
+                                {
+                                  "stat": {
+                                    "stat_id": "9004003",
+                                    "value": "119/273"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "5",
+                                    "value": ".436"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "9007006",
+                                    "value": "91/116"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "8",
+                                    "value": ".784"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "10",
+                                    "value": "27"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "12",
+                                    "value": "356"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "15",
+                                    "value": "128"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "16",
+                                    "value": "64"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "17",
+                                    "value": "29"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "18",
+                                    "value": "10"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "19",
+                                    "value": "64"
+                                  }
+                                },
+                                {
+                                  "stat": {
+                                    "stat_id": "27",
+                                    "value": "3"
+                                  }
+                                }
+                              ]
+                            },
+                            "team_points": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": "3"
+                            },
+                            "team_remaining_games": {
+                              "coverage_type": "week",
+                              "week": "1",
+                              "total": {
+                                "remaining_games": 0,
+                                "live_games": 0,
+                                "completed_games": 25
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "count": 2
+                    }
+                  }
+                }
+              },
+              "count": 8
+            }
+          }
+        }
+      }
+    ],
+    "time": "199.59092140198ms",
+    "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
+    "refresh_rate": "60"
+  }
+}
