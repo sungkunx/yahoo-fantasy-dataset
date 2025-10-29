@@ -356,6 +356,122 @@ def collect_fantasy_data():
     data["trades"] = trades
     print(f"   ✅ 트레이드 내역 분석 완료: {len(trades)}건")
 
+    # 11. 현재 주차까지의 순위 변동 추적
+    print("1️⃣1️⃣ 순위 변동 추적...")
+    weekly_standings = {}
+
+    # 현재가 Week 1의 3일째라면 Week 1 스탠딩만 확인
+    current_week = 1  # 실제로는 리그 정보에서 가져올 수 있음
+
+    for week in range(1, current_week + 1):
+        standings_url = f"https://fantasysports.yahooapis.com/fantasy/v2/league/{league_key}/standings?format=json"
+        week_standings = make_api_request(standings_url, access_token)
+
+        if week_standings:
+            try:
+                teams_data = week_standings.get('fantasy_content', {}).get('league', [{}])[1].get('standings', {}).get('0', {}).get('teams', {})
+
+                parsed_standings = []
+                for team_key in teams_data.keys():
+                    if team_key.isdigit():
+                        team_info = teams_data[team_key].get('team', [{}])
+                        if len(team_info) > 1:
+                            standings_info = {
+                                "team_key": team_info[0].get('team_key', ''),
+                                "name": team_info[0].get('name', 'Unknown'),
+                                "rank": team_info[1].get('team_standings', {}).get('rank', 0),
+                                "wins": team_info[1].get('team_standings', {}).get('outcome_totals', {}).get('wins', 0),
+                                "losses": team_info[1].get('team_standings', {}).get('outcome_totals', {}).get('losses', 0),
+                                "ties": team_info[1].get('team_standings', {}).get('outcome_totals', {}).get('ties', 0),
+                                "points_for": team_info[1].get('team_standings', {}).get('points_for', 0),
+                                "points_against": team_info[1].get('team_standings', {}).get('points_against', 0)
+                            }
+                            parsed_standings.append(standings_info)
+
+                # 순위순으로 정렬
+                parsed_standings.sort(key=lambda x: x['rank'])
+                weekly_standings[f"week_{week}"] = parsed_standings
+
+            except Exception as e:
+                print(f"   ⚠️ Week {week} 스탠딩 파싱 오류: {e}")
+
+    data["weekly_standings"] = weekly_standings
+    print(f"   ✅ 순위 추적 완료: {len(weekly_standings)}주차")
+
+    # 12. 선수별 일일 스탯 수집 (현재 주차의 지난 날짜들)
+    print("1️⃣2️⃣ 선수별 일일 스탯 수집...")
+
+    # Week 1의 3일째라면 10/21, 10/22, 10/23의 스탯 수집
+    dates_to_collect = [
+        "2024-10-21",  # Week 1 Day 1
+        "2024-10-22",  # Week 1 Day 2
+        "2024-10-23",  # Week 1 Day 3
+    ]
+
+    daily_player_stats = {}
+
+    # 각 팀의 로스터 선수들의 일일 스탯 수집
+    if teams_info:
+        try:
+            teams_data = teams_info.get('fantasy_content', {}).get('league', [{}])[1].get('teams', {})
+            team_keys = [k for k in teams_data.keys() if k.isdigit()]
+
+            for date in dates_to_collect:
+                print(f"   📅 {date} 스탯 수집 중...")
+                daily_player_stats[date] = {}
+
+                # 처음 4개 팀만 테스트 (전체는 시간이 오래 걸림)
+                for i, team_key in enumerate(team_keys[:4]):
+                    team_data = teams_data.get(team_key, {}).get('team', [{}])
+                    if len(team_data) > 0:
+                        team_id = team_data[0].get('team_key', '')
+                        team_name = team_data[0].get('name', f'Team_{i+1}')
+
+                        # 해당 팀의 해당 날짜 스탯 요청
+                        roster_stats_url = f"https://fantasysports.yahooapis.com/fantasy/v2/team/{team_id}/roster/players/stats;type=date;date={date}?format=json"
+                        roster_stats = make_api_request(roster_stats_url, access_token)
+
+                        if roster_stats:
+                            daily_player_stats[date][team_name] = roster_stats
+                            print(f"   📊 {team_name} {date} 스탯 수집 완료")
+                        else:
+                            print(f"   ⚠️ {team_name} {date} 스탯 수집 실패")
+
+                print(f"   ✅ {date} 일일 스탯 수집 완료")
+
+        except Exception as e:
+            print(f"   ⚠️ 일일 스탯 수집 오류: {e}")
+
+    data["daily_player_stats"] = daily_player_stats
+    total_dates = len([date for date in daily_player_stats.keys() if daily_player_stats[date]])
+    print(f"   ✅ 일일 스탯 수집 완료: {total_dates}일")
+
+    # 13. 매치업별 상세 선수 성과 분석
+    print("1️⃣3️⃣ 매치업별 선수 성과 분석...")
+
+    matchup_player_performance = {}
+
+    if parsed_matchups:
+        # Week 1 매치업에서 각 팀의 선수별 성과 수집
+        for matchup in parsed_matchups[:2]:  # 처음 2개 매치업만 테스트
+            matchup_id = matchup['matchup_id']
+            matchup_player_performance[f"matchup_{matchup_id}"] = {}
+
+            for team in matchup['teams']:
+                team_key = team['team_key']
+                team_name = team['name']
+
+                # 해당 팀의 Week 1 선수별 스탯
+                team_week_stats_url = f"https://fantasysports.yahooapis.com/fantasy/v2/team/{team_key}/roster/players/stats;type=week;week=1?format=json"
+                team_week_stats = make_api_request(team_week_stats_url, access_token)
+
+                if team_week_stats:
+                    matchup_player_performance[f"matchup_{matchup_id}"][team_name] = team_week_stats
+                    print(f"   📊 매치업 {matchup_id} - {team_name} 선수 성과 수집 완료")
+
+    data["matchup_player_performance"] = matchup_player_performance
+    print(f"   ✅ 매치업 선수 성과 분석 완료: {len(matchup_player_performance)}개")
+
     # 파일 저장
     output_dir = "fantasy_data"
     os.makedirs(output_dir, exist_ok=True)
