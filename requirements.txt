@@ -1,5 +1,15 @@
-yahoo-oauth
-yahoo-fantasy-api
-python-dotenv
+# Yahoo Fantasy Dataset Requirements
+
+# Core dependencies (compatible with Python 3.6+)
+yahoo-oauth==2.0.1
+yahoo-fantasy-api==2.7.0
+python-dotenv==1.0.0
 pandas<1.4.0
 requests
+
+# Optional for enhanced analysis
+numpy<1.20.0
+matplotlib<3.4.0
+
+# Development (optional)
+pytest<7.0.0
